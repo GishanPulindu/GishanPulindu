@@ -1,6 +1,12 @@
-## Hi there 👋
+## 👋 Hi, I'm Gishan
 
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning to Code, design websites and apps, editing videos.
-- ⚡ Fun fact: ~ LIFE IS MAGNUZ~
--->
+### What I'm doing right now
+- Learning C# & Unity (2D)
+- Building small gameplay systems from scratch
+- Practicing consistency over perfection
+
+### Current Projects
+- Currently working on something cool
+
+### Focus
+- Learning Python
